@@ -17,6 +17,10 @@ Python 3.8+
 
 psutil
 
+# INSTALLATION!
+HTTPS: git clone https://github.com/lostrushi777/Terminal-Dashboard.git
+SSH: git clone git@github.com:lostrushi777/Terminal-Dashboard.git
+
 # Usage
 
 Run the dashboard:
